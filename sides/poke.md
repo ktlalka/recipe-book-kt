@@ -12,7 +12,7 @@
 - green onion
 - grated ginger
 - lime
-
+- sugar
 ## Instructions
 
 Mix ingredients in a bowl.
